@@ -32,11 +32,11 @@ By building the project through the aggregator POM, each project that has packag
 1. Clone the project. 
 2. Then run "mvn clean install" in ParentApp, ChildGetUserName, PrintUserName
 
-<img src="/Maven Multi Module/temptodelete/mvncleaninstall.PNG"> <br/>
+<img src="temptodelete/mvncleaninstall.PNG"> <br/>
 
 3. Run project 
 
-<img src="/Maven Multi Module/temptodelete/output.PNG"> <br/>
+<img src="temptodelete/output.PNG"> <br/>
 
 Note: "mvn clean install" should be run after clonning project.
 
