@@ -1,0 +1,12 @@
+
+import com.multimodule.com.GetUserName;
+
+package com.multimodule.PrintUserName;
+public class PrintUser {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(GetUserName.GetName());
+	}
+
+}

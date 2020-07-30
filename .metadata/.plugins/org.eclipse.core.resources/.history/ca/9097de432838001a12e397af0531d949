@@ -1,0 +1,8 @@
+
+public class GetUserName {
+	public static String GetName() {
+		Scanner s = new Scanner(System.in);
+		String name= s.nextLine();
+		return name;
+	}
+}
